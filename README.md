@@ -1,0 +1,2 @@
+# ETicaretUygulamasi
+Alışveriş sitesi geliştirildi.
